@@ -297,9 +297,10 @@ section.active {
 
 .home-img .img-box .img-item img {
   position: absolute;
-  top: 3rem;
+  top: 4rem;
   display: block;
-  width: 85%;
+  width: 600px;
+  height: 600px;
   object-fit: cover;
   mix-blend-mode: lighten;
 }
